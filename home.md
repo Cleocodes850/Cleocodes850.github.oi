@@ -3,12 +3,7 @@ permalink: /
 ---
 # Home
 
-
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+## Links
+- [Blog](ftc-18848.github.io/blog)
+- [404](ftc-18848.github.io/404)
+- [Home](ftc-18848.github.io/)

@@ -53,19 +53,12 @@ Our team has spent over 15 productive and educational hours at Romig—West's ad
 <p>  The Reading Rendezvous was an event at the Anchorage Public Library to raise awareness of reading. We did robotics demonstrations and engaged with the public about our club and FTC, as well as FIRST and robotics more generally. Our goal was to help urge community members who might enjoy reading about science fiction or STEM to participate in the fields themselves.</p>
   </section>
 
-  <section id="contact">
-    <!-- Contact content here -->
-  </section>
-</main>
-    <section id="projects">
-      <h2>Projects</h2>
-      <p>Highlight some of the exciting robotics projects you've worked on or showcase projects from the robotics community.</p>
-    </section>
+  <section id="contact us">
+        <h2>contact us</h2>
+<p> visit our schools website here:</p>
+<a href="https://www.asdk12.org/west" target="_blank">Visit Example Website</a>
 
-    <section id="contact">
-      <h2>Contact Us</h2>
-      <p>Provide contact information or a contact form for visitors to reach out to you for inquiries or collaborations.</p>
-    </section>
+
   </main>
 
   <footer>

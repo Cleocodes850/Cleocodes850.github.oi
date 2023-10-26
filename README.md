@@ -102,6 +102,32 @@ Stay connected, stay inspired, and witness the future unfold as we embark on thi
 
 </section>
 
+  <section id="A Look At Last Year">
+        <h2>A Look At Last Year</h2>
+            <h3> Pre-season </h3>
+
+<p> <b> Identification of Problem </b>
+We must be able to place cones on the top junction, as well as obtain cones in a relatively quick timeframe and park autonomously by scanning the custom-made signal sleeve. </p>
+
+<p> <b> Generation of Concepts </b>
+We decided on a sliding rail-based lifting mechanism in order to maximize speed and vertical reach. We planned to print a custom signal sleeve and read it using image recognition or color scanning. </p>
+
+<p> <b> Development of Solutions </b>
+As we developed our solutions, we worked heavily with CAD to utilize construction methods like CNC and 3d printing, which allowed us to work with a high degree of precision and develop geometrically complex parts. </p>
+
+<p> <b> Construction </b>
+Once we had all of the ideas and the parts, we built everything. It was relatively easy because everything was planned in CAD, but there were still problems to overcome as we worked. </p>
+
+<p> <b> Test and Iteration of Design </b>
+As we built the robot, we continually tested and implemented improvements. For instance, the lift has undergone significant revision over the course of the reason as we refined and improved the design. We continually used the engineering process, identifying problems, generating concepts, developing solutions to them, and then building and testing them.
+
+
+</p>
+<a href="https://www.asdk12.org/west" target="_blank">West High School</a>
+
+<p> also follow us on instagram!:</p>
+<a href="https://www.instagram.com/westeaglerobotics/" target="_blank">West RObotics Instagram</a>
+  </section>
 
 
   </main>

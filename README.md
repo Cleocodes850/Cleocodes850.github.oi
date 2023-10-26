@@ -91,7 +91,7 @@ Our team has spent over 15 productive and educational hours at Romig—West's ad
 
 
   <section id="contact us">
-        <h2>contact us</h2>
+        <h2>Contact Us</h2>
 <p> visit our schools website here!</p>
 <a href="https://www.asdk12.org/west" target="_blank">West High School</a>
 

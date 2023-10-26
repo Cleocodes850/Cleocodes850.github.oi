@@ -11,7 +11,7 @@
  
   </header>
   <section id="about the team">
-          <h2>about the team</h2>
+          <h2> About the Team</h2>
 
   <p>Welcome to the Robotics Senior Team at West High School! We are a dedicated group of students passionate about robotics and technology.</p>
   <p>Our team consists of talented individuals who collaborate, innovate, and compete in various robotics competitions. We strive to push the boundaries of robotics and explore the exciting possibilities it offers.</p>
@@ -23,7 +23,7 @@
 
   <main>
     <section id="about our member">
-      <h2>About our members</h2>
+      <h2>About Our Members</h2>
       <p>
 Mr. Troll - Team Coach
 Mr. Troll has been at West High teaching math since 2015 and coaching robotics since 2019. As a novice coach with minimal robotics skills, his leadership role can best be defined as a spirited motivator, cunning recruiter, and "school employee supervisor". Through his coaching, he hopes to inspire his students to successful futures as problem solvers and STEM professionals.
@@ -42,9 +42,9 @@ I am Benjamin, a sophomore at West high school. I started doing FIRST robotics i
 <main>
 
   <section id="community outreach">
-      <h2>comunity outreach</h2>
+      <h2>Comunity Outreach</h2>
 
-<h3>Romig</h3>
+<h2>Romig</h2>
 <p>
 Our team has spent over 15 productive and educational hours at Romig—West's adjoining middle school. We have educated the youth of Romig by bringing the robot into their classrooms and doing presentations on robotics and STEM in general. Our presentations focused on the opportunities available to them through FIRST and in STEM. We additionally use this outreach as an opportunity to assist in their robotics elective class, and after-school club, as well as promote West's club if they want to continue robotics into High School.ts </p>
 

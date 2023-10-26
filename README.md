@@ -35,8 +35,13 @@ I am Benjamin, a sophomore at West high school. I started doing FIRST robotics i
     <!-- About content here -->
   </section>
 
-  <section id="projects">
-    <!-- Projects content here -->
+  <section id="community outreach">
+<p>
+        <h4>Romig</h4>
+
+Our team has spent over 15 productive and educational hours at Romig—West's adjoining middle school. We have educated the youth of Romig by bringing the robot into their classrooms and doing presentations on robotics and STEM in general. Our presentations focused on the opportunities available to them through FIRST and in STEM. We additionally use this outreach as an opportunity to assist in their robotics elective class, and after-school club, as well as promote West's club if they want to continue robotics into High School.ts content here -->
+    </p>
+
   </section>
 
   <section id="contact">

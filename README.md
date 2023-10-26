@@ -20,9 +20,22 @@
   </header>
 
   <main>
-    <section id="about">
+    <section id="about us">
       <h2>About Robotics</h2>
-      <p>Here you can provide information and details about robotics, its history, applications, and significance.</p>
+      <p>
+Mr. Troll - Team Coach
+Mr. Troll has been at West High teaching math since 2015 and coaching robotics since 2019. As a novice coach with minimal robotics skills, his leadership role can best be defined as a spirited motivator, cunning recruiter, and "school employee supervisor". Through his coaching, he hopes to inspire his students to successful futures as problem solvers and STEM professionals.
+
+Caleb
+been a volunteer firefighter for about a year. I like Reaching out to the community and connecting with Romig, the middle school right next to us. I like  helping out the middle school with their robotics team because they are dweebs. Because I also used to go to Rome. I like visiting old teachers I used to have. I would like to go to UAF to get an associates degree in Fire science and paramedicine and then Bachelor's in homeland security and Emergency Management.
+
+Aidan Ogilvie-Fiacco
+I'm Aidan Ogilvie-Fiacco, I am a sophomore at West. I joined the robotics team last year because of my interest in computers and engineering. Outside of school, I like to play video games, listen to music, and practice guitar.
+
+Ben
+I am Benjamin, a sophomore at West high school. I started doing FIRST robotics in 5th grade and I plan to continue through high school. I am excited for this year because it is in person and I am very excited this year to be the driver of the robot. I am also the business lead and help with outreach and team tasks.
+
+</p>
     </section>
 <main>
   <section id="about">

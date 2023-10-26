@@ -43,12 +43,15 @@ I am Benjamin, a sophomore at West high school. I started doing FIRST robotics i
 <main>
 
   <section id="community outreach">
+      <h2>comunity outreach</h2>
 
-        <h4>Romig</h4>
-
+<h3>Romig</h3>
+<p>
 Our team has spent over 15 productive and educational hours at Romig—West's adjoining middle school. We have educated the youth of Romig by bringing the robot into their classrooms and doing presentations on robotics and STEM in general. Our presentations focused on the opportunities available to them through FIRST and in STEM. We additionally use this outreach as an opportunity to assist in their robotics elective class, and after-school club, as well as promote West's club if they want to continue robotics into High School.ts content here -->
     </p>
 
+<h2> Reading Rendezvous</h2>
+<p>  The Reading Rendezvous was an event at the Anchorage Public Library to raise awareness of reading. We did robotics demonstrations and engaged with the public about our club and FTC, as well as FIRST and robotics more generally. Our goal was to help urge community members who might enjoy reading about science fiction or STEM to participate in the fields themselves.</p>
   </section>
 
   <section id="contact">

@@ -10,6 +10,7 @@
     <h1> Robotics Website, Welcome! </h1>
   <header>
     <h1>Welcome to the Robotics Website</h1>
+    <h3>Use these to skip around the site!</h3> 
     <nav>
       <ul>
         <li><a href="#">about the team</a></li>

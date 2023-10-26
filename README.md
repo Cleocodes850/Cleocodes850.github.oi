@@ -8,7 +8,22 @@
 <body>
   <header>
     <h1> Robotics Website, Welcome! </h1>
- 
+
+    <nav>
+      <ul>
+        <li> <a href="#">about the team </a> </li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">community outreach </a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+
+
+about our member
+contact us
+Follow Our Journey
+
+A Look At Last Year
   </header>
   <section id="about the team">
           <h2> About the Team</h2>

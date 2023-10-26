@@ -51,12 +51,39 @@ Our team has spent over 15 productive and educational hours at Romig—West's ad
 
 <h2> Reading Rendezvous </h2>
 <p>  The Reading Rendezvous was an event at the Anchorage Public Library to raise awareness of reading. We did robotics demonstrations and engaged with the public about our club and FTC, as well as FIRST and robotics more generally. Our goal was to help urge community members who might enjoy reading about science fiction or STEM to participate in the fields themselves.</p>
+
+<h2> Willow Crest, Government Hill, and Rogers Park </h2>
+<p>  West High Robotics has been given the opportunity to present to the youngsters of various elementary schools. We led them in the construction of simple robots and encouraged them to participate in STEM and robotics.  We feel that after our presentations the students were left more aware of the opportunities available to them in the world of robotics and STEM in general. We met with at least 48 kids at Government Hill and 30 at Rogers Park. </p>
+
+<h2> Dance West </h2>
+<p> West High's own Dance Program contacted us requesting the creation of a remote-controlled, self-opening, talking book to be used as a performance prop. The Westie Besties collaborated with 19953 on this project. We faced issues with the opening of the book being unreliable, which we overcame with the help and guidance of Mr.Souza. In the end, we successfully brought the book to life, to the delight of the Dance West audience. </p>
+
+<h2> Resource Data </h2>
+<p> The industry leader Resource Data reached out to West High Robotics with an opportunity to meet with some of their engineers and collaborate on client outreach. A huge number of West robotics members were eager to help them out, and overall we had a great experience. We hope to deepen our relationship with Resource Data going forward. </p>
+
+<h2> Freshman Fair </h2>
+<p> The freshman fair was an event put on by our amazing high school to show freshmen some of the programs available at west such as our robotics club. We talked to many a freshman and got 22 passionate young minds to engage themselves with the world of West High Robotics—far more than we were anticipating! We see the freshman fair as a vital part of our sustainability as a club, especially considering the size of the turnout on the first day of robotics and the formation of 2 new teams. </p>
+
+<h2> Da Vinci Robot </h2>
+<p> Our amazing outreach crew reached out to the Da Vinci (the $2 million robot famous for doing surgery on a grape) supplier in Alaska. Because of this interaction with the community we got to go see and practice using the DA Vinci robot. we discussed the use case of this robot and the use of robots in medical and other fields. As a result of this interaction, we were able to get a Da Vinci training instrument to place in our lab. </p>
+
+<h2> Freshman congress </h2>
+<p> Freshman congress is an event held the week before school to show the freshman around and let them see where classes are, getting them ready for the there first day of school. At this very helpful event we set up a booth in the hall to spread information about our epic club and hopfully get new members. </p>
+
+<h2> Mentoring New Teams </h2>
+<p> We have also mentored your new teams 22323 and 16660(old number—all-new team). From explaining what FIRST is, to helping them build their first robot and develop their engineering portfolio. We even supplied resources like funding and parts. We even helped them through build and design hurdles. When we feel like more guidance is needed we often make presentations for the newer teams with help from 19953 (which has some other more experienced members). With 19953 focusing on helping them with code and our team helping them more with build and design, we have seen very good success from our new teams, and are excited to see how they develop through their time at West as they gain more experience. </p>
+  
   </section>
+
+
 
   <section id="contact us">
         <h2>contact us</h2>
-<p> visit our schools website here:</p>
-<a href="https://www.asdk12.org/west" target="_blank">Visit Example Website</a>
+<p> visit our schools website here!</p>
+<a href="https://www.asdk12.org/west" target="_blank">West High School</a>
+
+<p> also follow us on instagram!:</p>
+<a href="https://www.instagram.com/westeaglerobotics/" target="_blank">West RObotics Instagram</a>
 
 
   </main>

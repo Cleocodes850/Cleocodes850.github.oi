@@ -83,6 +83,25 @@ Our team has spent over 15 productive and educational hours at Romig—West's ad
 
 <p> also follow us on instagram!:</p>
 <a href="https://www.instagram.com/westeaglerobotics/" target="_blank">West RObotics Instagram</a>
+  </section>
+
+<section id="Follow Our Journey>
+  <h2> Follow Our Journey </h2>
+<p> Discover the thrill of robotics as our team embarks on an exhilarating journey this season! Stay updated and witness the magic unfold as we push the boundaries of innovation and teamwork.
+
+Follow our progress as we tackle challenging obstacles, design cutting-edge robots, and compete against top-notch teams. From brainstorming sessions to late-night coding marathons, you'll get a behind-the-scenes look at our dedication and passion for robotics.
+
+Be a part of our adventure by joining our online community! Connect with us on social media, subscribe to our newsletter, and explore our interactive website. Engage in lively discussions, witness our triumphs and setbacks, and be inspired by our unwavering determination.
+
+Through regular updates, captivating videos, and captivating photo galleries, we'll transport you into the heart of our robotic endeavors. Experience the excitement firsthand as we strive for excellence, navigate unexpected challenges, and celebrate our victories together.
+
+Whether you're a fellow robotics enthusiast, a curious supporter, or someone fascinated by the wonders of technology, we invite you to join us on this incredible ride. Together, let's witness the evolution of our team and the incredible possibilities that emerge from the world of robotics.
+
+Stay connected, stay inspired, and witness the future unfold as we embark on this extraordinary robotics season!
+</p> 
+
+</section>
+
 
 
   </main>

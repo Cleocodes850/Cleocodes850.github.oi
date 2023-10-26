@@ -24,7 +24,19 @@
       <h2>About Robotics</h2>
       <p>Here you can provide information and details about robotics, its history, applications, and significance.</p>
     </section>
+<main>
+  <section id="about">
+    <!-- About content here -->
+  </section>
 
+  <section id="projects">
+    <!-- Projects content here -->
+  </section>
+
+  <section id="contact">
+    <!-- Contact content here -->
+  </section>
+</main>
     <section id="projects">
       <h2>Projects</h2>
       <p>Highlight some of the exciting robotics projects you've worked on or showcase projects from the robotics community.</p>

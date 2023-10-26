@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Robotics Website </title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>Welcome to the Robotics Website</h1>
+    <h1> Robotics Website, Welcome! </h1>
  
   </header>
   <section id="about the team">

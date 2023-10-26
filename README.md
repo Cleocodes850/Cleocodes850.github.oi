@@ -13,7 +13,7 @@
   </header>
 
   <main>
-    <section id="about us">
+    <section id="about our member">
       <h2>About Robotics</h2>
       <p>
 Mr. Troll - Team Coach
@@ -31,8 +31,13 @@ I am Benjamin, a sophomore at West high school. I started doing FIRST robotics i
 </p>
     </section>
 <main>
-  <section id="about">
-    <!-- About content here -->
+  <section id="about the team">
+  <p>Welcome to the Robotics Senior Team at West High School! We are a dedicated group of students passionate about robotics and technology.</p>
+  <p>Our team consists of talented individuals who collaborate, innovate, and compete in various robotics competitions. We strive to push the boundaries of robotics and explore the exciting possibilities it offers.</p>
+  <p>Through our involvement in robotics, we develop critical thinking, problem-solving, and teamwork skills. We believe in hands-on learning and enjoy applying our knowledge in real-world scenarios.</p>
+  <p>As a senior team, we have accumulated years of experience in designing, building, and programming robots. We embrace challenges and continuously seek opportunities to learn and grow.</p>
+  <p>Our goal is not only to excel in robotics competitions but also to inspire and educate others about the ever-evolving field of robotics. We actively engage with our school and community, organizing workshops, demonstrations, and outreach events.</p>
+  <p>Join us on our exciting journey as we explore the fascinating world of robotics and work together to make a positive impact in our community.</p>
   </section>
 
   <section id="community outreach">

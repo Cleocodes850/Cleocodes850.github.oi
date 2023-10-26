@@ -11,10 +11,20 @@
     <h1>Welcome to the Robotics Website</h1>
  
   </header>
+  <section id="about the team">
+          <h2>about the team</h2>
+
+  <p>Welcome to the Robotics Senior Team at West High School! We are a dedicated group of students passionate about robotics and technology.</p>
+  <p>Our team consists of talented individuals who collaborate, innovate, and compete in various robotics competitions. We strive to push the boundaries of robotics and explore the exciting possibilities it offers.</p>
+  <p>Through our involvement in robotics, we develop critical thinking, problem-solving, and teamwork skills. We believe in hands-on learning and enjoy applying our knowledge in real-world scenarios.</p>
+  <p>As a senior team, we have accumulated years of experience in designing, building, and programming robots. We embrace challenges and continuously seek opportunities to learn and grow.</p>
+  <p>Our goal is not only to excel in robotics competitions but also to inspire and educate others about the ever-evolving field of robotics. We actively engage with our school and community, organizing workshops, demonstrations, and outreach events.</p>
+  <p>Join us on our exciting journey as we explore the fascinating world of robotics and work together to make a positive impact in our community.</p>
+  </section>
 
   <main>
     <section id="about our member">
-      <h2>About Robotics</h2>
+      <h2>About our members</h2>
       <p>
 Mr. Troll - Team Coach
 Mr. Troll has been at West High teaching math since 2015 and coaching robotics since 2019. As a novice coach with minimal robotics skills, his leadership role can best be defined as a spirited motivator, cunning recruiter, and "school employee supervisor". Through his coaching, he hopes to inspire his students to successful futures as problem solvers and STEM professionals.
@@ -31,17 +41,9 @@ I am Benjamin, a sophomore at West high school. I started doing FIRST robotics i
 </p>
     </section>
 <main>
-  <section id="about the team">
-  <p>Welcome to the Robotics Senior Team at West High School! We are a dedicated group of students passionate about robotics and technology.</p>
-  <p>Our team consists of talented individuals who collaborate, innovate, and compete in various robotics competitions. We strive to push the boundaries of robotics and explore the exciting possibilities it offers.</p>
-  <p>Through our involvement in robotics, we develop critical thinking, problem-solving, and teamwork skills. We believe in hands-on learning and enjoy applying our knowledge in real-world scenarios.</p>
-  <p>As a senior team, we have accumulated years of experience in designing, building, and programming robots. We embrace challenges and continuously seek opportunities to learn and grow.</p>
-  <p>Our goal is not only to excel in robotics competitions but also to inspire and educate others about the ever-evolving field of robotics. We actively engage with our school and community, organizing workshops, demonstrations, and outreach events.</p>
-  <p>Join us on our exciting journey as we explore the fascinating world of robotics and work together to make a positive impact in our community.</p>
-  </section>
 
   <section id="community outreach">
-<p>
+
         <h4>Romig</h4>
 
 Our team has spent over 15 productive and educational hours at Romig—West's adjoining middle school. We have educated the youth of Romig by bringing the robot into their classrooms and doing presentations on robotics and STEM in general. Our presentations focused on the opportunities available to them through FIRST and in STEM. We additionally use this outreach as an opportunity to assist in their robotics elective class, and after-school club, as well as promote West's club if they want to continue robotics into High School.ts content here -->
